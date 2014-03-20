@@ -61,6 +61,7 @@ GEM
     net-scp (1.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (2.8.0)
+    newrelic_rpm (3.7.3.204)
     pg (0.17.1)
     polyglot (0.3.4)
     rack (1.5.2)
@@ -140,6 +141,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
+  newrelic_rpm
   pg
   rails (= 4.0.4)
   rails_12factor
