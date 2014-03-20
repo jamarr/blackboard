@@ -115,7 +115,7 @@ common: &default_settings
   # transactions and sends this to the New Relic service once a
   # minute. Included in the transaction is the exact call sequence of
   # the transactions including any SQL statements issued.
-  transaction_tracer:
+  transaction_tracer:explain_enabled: false
 
     # Transaction tracer is enabled by default. Set this to false to
     # turn it off. This feature is only available at the Professional
