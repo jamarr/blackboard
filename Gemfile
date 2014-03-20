@@ -46,8 +46,10 @@ gem 'capistrano', group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+#heroku add-ons
 gem 'rails_12factor', group: :production
-
 gem 'newrelic_rpm'
+#gem 'memcachier'
+#gem 'dalli'
 
 
