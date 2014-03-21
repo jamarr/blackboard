@@ -52,9 +52,4 @@ gem 'newrelic_rpm'
 #gem 'memcachier'
 #gem 'dalli'
 
-#twitter-bootstrap
-gem 'twitter-bootstrap-rails'
-gem 'therubyracer'
-gem 'less-rails'
-
 
