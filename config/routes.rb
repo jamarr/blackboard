@@ -1,4 +1,6 @@
 Blackboard::Application.routes.draw do
+  resources :registers
+
   resources :boards
 
   # The priority is based upon order of creation: first created -> highest priority.
