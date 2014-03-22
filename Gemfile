@@ -52,4 +52,7 @@ gem 'newrelic_rpm'
 #gem 'memcachier'
 #gem 'dalli'
 
+#facebook authentication
+gem 'omniauth-facebook'
+
 
