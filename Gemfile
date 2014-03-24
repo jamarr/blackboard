@@ -55,4 +55,6 @@ gem 'newrelic_rpm'
 #facebook authentication
 gem 'omniauth-facebook'
 
+gem 'pubnub'
+
 
