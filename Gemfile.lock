@@ -108,6 +108,7 @@ GEM
       persistent_http
     pg (0.17.1)
     polyglot (0.3.4)
+    psych (2.0.5)
     pubnub (3.4.1)
       em-http-request
       eventmachine
@@ -194,6 +195,7 @@ DEPENDENCIES
   newrelic_rpm
   omniauth-facebook
   pg
+  psych (~> 2.0.5)
   pubnub
   rails (= 4.0.4)
   rails_12factor
