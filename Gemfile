@@ -57,4 +57,6 @@ gem 'omniauth-facebook'
 
 gem 'pubnub'
 
+gem 'psych', '~>2.0.5'
+
 
