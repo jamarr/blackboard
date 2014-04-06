@@ -1,3 +1,0 @@
-== README
-
-<tt>rake doc:app</tt>.
