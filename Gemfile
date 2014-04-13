@@ -29,6 +29,9 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+group :development do
+  gem 'brakeman', :require => false
+end
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
@@ -58,5 +61,4 @@ gem 'omniauth-facebook'
 gem 'pubnub'
 
 gem 'psych', '~>2.0.5'
-
 
