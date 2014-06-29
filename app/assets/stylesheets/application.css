@@ -11,3 +11,9 @@
  *= require_self
  *= require_tree .
  */
+body{
+    background-image: images/drinkupp_background01.png;
+	color: #616363;
+	font-family: "HelveticaNeue";
+	font-size: 14px;
+}
